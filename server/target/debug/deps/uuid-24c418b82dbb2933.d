@@ -1,0 +1,12 @@
+C:\Users\dell\OneDrive\Desktop\projectRUST\server\target\debug\deps\uuid-24c418b82dbb2933.rmeta: C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\lib.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\builder.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\error.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\parser.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\fmt.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\timestamp.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\external.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\macros.rs
+
+C:\Users\dell\OneDrive\Desktop\projectRUST\server\target\debug\deps\uuid-24c418b82dbb2933.d: C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\lib.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\builder.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\error.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\parser.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\fmt.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\timestamp.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\external.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\macros.rs
+
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\lib.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\builder.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\error.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\parser.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\fmt.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\timestamp.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\external.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.6.1\src\macros.rs:

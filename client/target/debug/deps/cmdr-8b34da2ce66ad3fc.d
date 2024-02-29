@@ -1,0 +1,12 @@
+C:\Users\dell\OneDrive\Desktop\RUST\project\client\target\debug\deps\cmdr-8b34da2ce66ad3fc.rmeta: C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\lib.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\description.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line_reader.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line_writer.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\result.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\runner.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\scope.rs
+
+C:\Users\dell\OneDrive\Desktop\RUST\project\client\target\debug\deps\cmdr-8b34da2ce66ad3fc.d: C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\lib.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\description.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line_reader.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line_writer.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\result.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\runner.rs C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\scope.rs
+
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\lib.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\description.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line_reader.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\line_writer.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\result.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\runner.rs:
+C:\Users\dell\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cmdr-0.3.12\src\scope.rs:
